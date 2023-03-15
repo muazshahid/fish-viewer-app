@@ -1,0 +1,24 @@
+name: fishnet-cpu
+
+dependencies:
+  - python==3.9
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn
+  - cudatoolkit
+  - pip:
+    - tensorflow-gpu
+    - opencv-python
+    - lxml
+    - tqdm
+    - absl-py
+    - easydict
+    - pillow
+    - streamlit
+    - streamlit_embedcode
+    - moviepy
+    - pydub
+    - streamlit-webrtc
+    - scipy
+

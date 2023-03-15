@@ -1,0 +1,14 @@
+opencv-python
+lxml
+tqdm
+tensorflow-gpu
+absl-py
+easydict
+matplotlib
+pillow
+streamlit
+streamlit_embedcode
+moviepy
+pydub
+streamlit-webrtc
+scipy
